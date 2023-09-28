@@ -12,6 +12,6 @@ public class GithubTest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Do something when health is 0
     }
 }
